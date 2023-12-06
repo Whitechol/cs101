@@ -1,0 +1,14 @@
+E:\code\C#\Practice\C#practice-1\C#practice-1\obj\Debug\net8.0\C#practice-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\C#\Practice\C#practice-1\C#practice-1\obj\Debug\net8.0\C#practice-1.AssemblyInfoInputs.cache
+E:\code\C#\Practice\C#practice-1\C#practice-1\obj\Debug\net8.0\C#practice-1.AssemblyInfo.cs
+E:\code\C#\Practice\C#practice-1\C#practice-1\obj\Debug\net8.0\C#practice-1.csproj.CoreCompileInputs.cache
+E:\code\C#\Practice\C#practice-1\C#practice-1\bin\Debug\net8.0\C#practice-1.exe
+E:\code\C#\Practice\C#practice-1\C#practice-1\bin\Debug\net8.0\C#practice-1.deps.json
+E:\code\C#\Practice\C#practice-1\C#practice-1\bin\Debug\net8.0\C#practice-1.runtimeconfig.json
+E:\code\C#\Practice\C#practice-1\C#practice-1\bin\Debug\net8.0\C#practice-1.dll
+E:\code\C#\Practice\C#practice-1\C#practice-1\bin\Debug\net8.0\C#practice-1.pdb
+E:\code\C#\Practice\C#practice-1\C#practice-1\obj\Debug\net8.0\C#practice-1.dll
+E:\code\C#\Practice\C#practice-1\C#practice-1\obj\Debug\net8.0\refint\C#practice-1.dll
+E:\code\C#\Practice\C#practice-1\C#practice-1\obj\Debug\net8.0\C#practice-1.pdb
+E:\code\C#\Practice\C#practice-1\C#practice-1\obj\Debug\net8.0\C#practice-1.genruntimeconfig.cache
+E:\code\C#\Practice\C#practice-1\C#practice-1\obj\Debug\net8.0\ref\C#practice-1.dll
