@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int i = 165423498;
+    int i = 12345;
     int tmp1 = 0, tmp2 = 0;
     int count1 = 0, count2 = 0;
     while (i >= 10000)
